@@ -22,6 +22,13 @@
       "tags": ["addtocal"]
     },
     {
+      "name": "calendar-mobile-swap",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/32ef243dfa07b33fc806e1057b700ab6aa199f254a1b2e79a16fae225f720141.jpg",
+      "example": "Calendar invitations used to remind customer of swap date.",
+      "offset": "center top",
+      "tags": ["addtocal"]
+    },
+    {
       "name": "calendar-sports-2",
       "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/e3ce48fbe7cea439190b2ab219711228b0318a43f1e5148e6d40b4782e7c9b68.jpg",
       "example": "Calendar invitations used to mark different sporting events.",
