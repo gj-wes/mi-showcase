@@ -76,7 +76,7 @@ aside {
 
   & p span {
     font-weight: bold;
-    color: hsl(332, 78%, 50%);
+    color: hsl(var(--pink));
   }
 }
 .sticky-container {
