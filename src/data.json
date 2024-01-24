@@ -1,0 +1,144 @@
+{
+  "emails": [
+    {
+      "name": "api-source-sportsweekly",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/6e81ca35c3722b89244b9b40d777c3e49c4e3dc3fddc2d66f21e4089f2898d5a.jpg",
+      "description": "Data source used to display the current 10 trending articles on Sky Sports News.",
+      "offset": "center -800px",
+      "tags": ["api"]
+    },
+    {
+      "name": "api-source-store",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/c1d287c70e772c1d42f18d3d693d95a342efb9cd7667b10b6940c4ef1be36a3e.jpg",
+      "description": "Data source connected to Sky Store website to display the most recent additions in the hero imagery.",
+      "offset": "center top",
+      "tags": ["api"]
+    },
+    {
+      "name": "calendar-sports-1",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/5c18c8c65aff74dd39257dde0f31b29c3c0c5f07b430efa7b3decd72dd6a3119.jpg",
+      "description": "Calendar invitations used to mark different sporting events.",
+      "offset": "center -100px",
+      "tags": ["addtocal"]
+    },
+    {
+      "name": "calendar-sports-2",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/e3ce48fbe7cea439190b2ab219711228b0318a43f1e5148e6d40b4782e7c9b68.jpg",
+      "description": "Calendar invitations used to mark different sporting events.",
+      "offset": "center top",
+      "tags": ["addtocal"]
+    },
+    {
+      "name": "value-sports",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/c9e833470633e50557589191f0288cd57f85ebb108db47acbf228c90762deaa5.jpg",
+      "description": "Dynamic image used to personalise the shirt with the customers surname in the hero pod. Dynamic images also used in the stats pod to maintain the Sky Sports branding.<br><br>Bar Chart used to display a customers most watched sports and percentage breakdown of time spent viewing each of those sports.",
+      "offset": "center top",
+      "tags": ["bar", "imgpers"]
+    },
+    {
+      "name": "timer-broadband",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/4b7ae286952298d8f545329138ae5ace9286bf6e2118962001ce7556756f965c.jpg",
+      "description": "Countdown timer set to fixed offer end date.",
+      "offset": "center top",
+      "tags": ["timer"]
+    },
+    {
+      "name": "dmo-bau",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/622f8ffc6bafa15078d465dd84c2a52d1c50d90d870948566b1cb5fa0c935132.jpg",
+      "description": "Countdown timer set to a dynamic date passed in from a data flag.<br><br>Dynamic image used for the pricing lockup to maintain Sky spectrum branding.",
+      "offset": "center -100px",
+      "tags": ["imgpers", "timer"]
+    },
+    {
+      "name": "timer-dmo-bf",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/7b3f1ebfe77d769a5584e6f08c3b73e2850c121298fa952a09ed28d4bc9d3eb5.jpg",
+      "description": "Countdown timer set to fixed offer end date.",
+      "offset": "center -100px",
+      "tags": ["timer"]
+    },
+    {
+      "name": "timer-dynamo",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/eb286dbfd432d06280c69336731eb6ce0555119ce6d18f6f76765641c04a2b26.jpg",
+      "description": "Countdown timer set to coincide with show start time.",
+      "offset": "center -100px",
+      "tags": ["timer"]
+    },
+    {
+      "name": "timer-f1",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/e16c60b2c7855892e051bc7c74fa64586512f5f7f8f6a289d17806d87faee45a.jpg",
+      "description": "Countdown timer with start of F1 season branding, counting down to a race start time.",
+      "offset": "center -140px",
+      "tags": ["timer"]
+    },
+    {
+      "name": "timer-f1-2",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/30b38e8ef0f87e5369d0fd2a8e04a1413a8d05d6f008df9d18ea8e11fa499ca4.jpg",
+      "description": "Countdown timer with start of F1 branding, counting down to a race start time.",
+      "offset": "center -30px",
+      "tags": ["timer"]
+    },
+    {
+      "name": "timer-sports",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/b0bdd121e5f9bee4306e192b0d01581bd4cb0f9cd9f8434d5b92a150e5f5b213.jpg",
+      "description": "Countdown timers for multiple sporting event start times",
+      "offset": "center top",
+      "tags": ["timer"]
+    },
+    {
+      "name": "deadlineday",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/9aa3411659f3b032d1e220458c2fcbd30e4a9e1eb3e3659c3693becbb8dd7e63.jpg",
+      "description": "Dynamic images used to personalise the 'Transfer rumours' with customers full name and on the pricing lockup to maintain Sports branding. Countdown timer built in Deadline Day branding and counts down to transfer deadline time. This email deploys on Deadline Day itself, so only hours and mins are displayed.",
+      "offset": "center top",
+      "tags": ["imgpers", "timer"]
+    },
+    {
+      "name": "homemove",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/4f10885c8b4c05de3a6e192e4711bc1887d7d6e0308ec5e75c2fe13f615d289f.jpg",
+      "description": "Dynamic image personalises the top part of the moving checklist with a customers firstname.",
+      "offset": "center top",
+      "tags": ["imgpers"]
+    },
+    {
+      "name": "scratch-alwayson-mobile",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/da36ff945c5a69f6d8c093ab782da977af4073adf3ff9336395d20585c0dfde4.jpg",
+      "description": "Scratch card offer reveal.",
+      "offset": "center top",
+      "tags": ["scratch"]
+    },
+    {
+      "name": "scratch-winback",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/3bc8c13edf99454f9a796a19a4ea14dc40f9e6ce81ca09137e1c7250c203ad7b.jpg",
+      "description": "Scratch card offer reveal.",
+      "offset": "center top",
+      "tags": ["scratch"]
+    },
+    {
+      "name": "scratch-cinema",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/82b1a2bd3877d22342b16d47c2f87450f1a1dfefbdaeb57dc6a311c388f0352d.jpg",
+      "description": "Scratch card offer reveal.",
+      "offset": "center top",
+      "tags": ["scratch"]
+    },
+    {
+      "name": "weather-stormy",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/2863ece2de9ff0fce2591bcbf4094406428775f1c140f8733fe600f4d657b4e7.jpg",
+      "description": "Dynamic weather pod to display current weather at time of email open. This creative was sent preemptively of bad weather to offer a free Sky Store movie as an option to watch during any Sky disruption during that bad weather.<br><br>Note: Apple MPP means this approach may no longer be as accurate.",
+      "offset": "center top",
+      "tags": ["weather"]
+    },
+    {
+      "name": "weather-netflix",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/39fc0a9643e61571c65dec04031ab9cef98c3471500488de28cfe812c8c2fcbb.jpg",
+      "description": "Dynamic weather displayed above the hero. Weather details pulled in at time of email open.<br><br>Note: Apple MPP means this approach may no longer be as accurate.",
+      "offset": "center top",
+      "tags": ["weather"]
+    },
+    {
+      "name": "weather-riviera",
+      "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/dd37e8958731f4d964247f832ba7b6c54fb63722b61abf409173b553fc923a58.jpg",
+      "description": "Temperature details pulled in dynamically at time of email open. This creative was sent during the Summer to coincide with show release and nicer weather. The Sun and 'Sunshine and secrets' copy are hardcoded and not dynamic.<br><br>Note: Apple MPP means this approach may no longer be as accurate.",
+      "offset": "center top",
+      "tags": ["weather"]
+    }
+  ]
+}
