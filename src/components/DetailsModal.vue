@@ -36,11 +36,11 @@ function toggleModel () {
         <Timer        v-if="details?.tags.includes('timer')"    />
         <Weather      v-if="details?.tags.includes('weather')"  />
 
-        <template v-if="details?.description">
+        <template v-if="details?.example">
           <h2>
             In this example:
           </h2>
-          <p>{{ details.description }}</p>
+          <p>{{ details.example }}</p>
         </template>
       </div>
     </div>
