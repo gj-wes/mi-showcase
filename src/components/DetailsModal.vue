@@ -98,5 +98,9 @@ function toggleModel () {
 
 .block-description {
   margin-block-end: 2rem;
+
+  & :deep(p + p) {
+    margin-block-start: 1rem;
+  }
 }
 </style>
