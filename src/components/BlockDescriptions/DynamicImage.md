@@ -1,3 +1,3 @@
 ## Dynamic Image
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae molestiae nostrum ex maxime et, explicabo quod ipsam fugiat voluptates, eveniet accusamus necessitatibus ipsa eum nobis quia saepe obcaecati cum hic.
+The core component of Movable Ink. This allows an image to be dynamic and personalised with any data that is passed to it. 

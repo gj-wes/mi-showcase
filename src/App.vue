@@ -1,31 +1,6 @@
 <script setup>
-import { computed, ref } from 'vue';
 import PreviewCard from '@/components/PreviewCard.vue'
 import data from './data.json'
-
-const selectedTags = ref([])
-
-function toggleFilterSelect(tag) {
-  if (selectedTags.value.includes(tag)) {
-    selectedTags.value = selectedTags.value.filter(t => t !== tag);
-  } else {
-    selectedTags.value.push(tag)
-  }
-  
-}
-
-const filterPreviews = computed(() => {
-  let filtered = data.emails;
-  if (selectedTags.value.length !== 0) {
-    filtered = data.emails.filter(email => {
-      return email.tags.every(tag => { 
-        console.log(email.tags, tag, email.tags.every(tag => selectedTags.value.includes(tag)))
-        return selectedTags.value.includes(tag)
-      })
-    })
-  }
-  return filtered;
-})
 </script>
 
 <template>
@@ -35,12 +10,17 @@ const filterPreviews = computed(() => {
         MI Showcase
       </h1>
       <p>
+        Examples of how we've used Movable Ink dynamic content in our marketing emails. 
+        <br><br>
+        Click a preview for more details.
+      </p>
+      <p>
         If you'd like to know more about any of the Movable Ink functionality please speak to <span>Dipal Patel</span> and <span>Gary Wesolowski</span> in the Email Dev team.
       </p>
     </div>
   </aside>
   <main>
-    <PreviewCard v-for="email, i in filterPreviews" :key="i" :tags="email.tags" :details="email">
+    <PreviewCard v-for="email, i in data.emails" :key="i" :tags="email.tags" :details="email">
       <img :src="email.url" :style="{ 'object-position': `${email.offset}` }">
     </PreviewCard>
   </main>
@@ -85,12 +65,16 @@ aside {
   height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+
+  :last-child {
+    margin-block-start: auto;
+  }
 }
 
 h1 {
   color: hsl(var(--pink));
   font-size: 1.75rem;
+  margin-block-end: 1rem;
 }
 
 main {

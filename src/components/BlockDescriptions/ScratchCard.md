@@ -1,3 +1,5 @@
 ## Scratch Card
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae molestiae nostrum ex maxime et, explicabo quod ipsam fugiat voluptates, eveniet accusamus necessitatibus ipsa eum nobis quia saepe obcaecati cum hic.
+The scratch card offers a chance to "gamify" some content, hiding content behind a layer.
+
+It is important to note the 'scratching' **does not work in the email**. On clicking the scratch creative in the email the customer is then taken to a landing page that houses the interactive scratch card.

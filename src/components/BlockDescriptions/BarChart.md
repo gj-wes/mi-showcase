@@ -1,3 +1,3 @@
 ## Bar Chart
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae molestiae nostrum ex maxime et, explicabo quod ipsam fugiat voluptates, eveniet accusamus necessitatibus ipsa eum nobis quia saepe obcaecati cum hic.
+Displays data in a bar chart format. Charts are powered by three values 'start', 'current' and 'goal', these can be hardcoded or passed to MI using data flags. The use of data flags allows the chart to be more dynamic and personalised.

@@ -24,7 +24,7 @@
     {
       "name": "calendar-mobile-swap",
       "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/32ef243dfa07b33fc806e1057b700ab6aa199f254a1b2e79a16fae225f720141.jpg",
-      "example": "Calendar invitations used to remind customer of swap date.",
+      "example": "Calendar invitations used to remind customer of date they can swap their mobile device.",
       "offset": "center top",
       "tags": ["addtocal"]
     },
@@ -129,21 +129,21 @@
     {
       "name": "weather-stormy",
       "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/2863ece2de9ff0fce2591bcbf4094406428775f1c140f8733fe600f4d657b4e7.jpg",
-      "example": "Dynamic weather pod to display current weather at time of email open. This creative was sent preemptively of bad weather to offer a free Sky Store movie as an option to watch during any Sky disruption during that bad weather.<br><br>Note: Apple MPP means this approach may no longer be as accurate.",
+      "example": "Dynamic weather pod to display current weather at time of email open. This creative was sent preemptively of bad weather to offer a free Sky Store movie as an option to watch during any Sky disruption during that bad weather.",
       "offset": "center top",
       "tags": ["weather"]
     },
     {
       "name": "weather-netflix",
       "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/39fc0a9643e61571c65dec04031ab9cef98c3471500488de28cfe812c8c2fcbb.jpg",
-      "example": "Dynamic weather displayed above the hero. Weather details pulled in at time of email open.<br><br>Note: Apple MPP means this approach may no longer be as accurate.",
+      "example": "Dynamic weather displayed above the hero. Weather details pulled in at time of email open.",
       "offset": "center top",
       "tags": ["weather"]
     },
     {
       "name": "weather-riviera",
       "url": "https://res.newsletter.contact.sky/res/sky_ids_mid_t/dd37e8958731f4d964247f832ba7b6c54fb63722b61abf409173b553fc923a58.jpg",
-      "example": "Temperature details pulled in dynamically at time of email open. This creative was sent during the Summer to coincide with show release and nicer weather. The Sun and 'Sunshine and secrets' copy are hardcoded and not dynamic.<br><br>Note: Apple MPP means this approach may no longer be as accurate.",
+      "example": "Temperature details pulled in dynamically at time of email open. This creative was sent during the Summer to coincide with show release and nicer weather. The Sun and 'Sunshine and secrets' copy are hardcoded and not dynamic.",
       "offset": "center top",
       "tags": ["weather"]
     }

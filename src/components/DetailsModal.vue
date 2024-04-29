@@ -40,7 +40,7 @@ function toggleModel () {
           <h2>
             In this example:
           </h2>
-          <p>{{ details.example }}</p>
+          <p v-html="details.example"></p>
         </template>
       </div>
     </div>
